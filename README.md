@@ -1,10 +1,11 @@
 # Project Name Here
 Team Muffin Madness
+
 ## Link To Project Proposal
-link to wiki page here for proposal
+https://github.com/deco3500-2019/muffinmadness/wiki/Proposal
 
 ## Link to Final Report
-https://github.com/deco3500-2019/TEMPLATE/wiki/Proposal
+Coming later this year..
 
 ## Link to Working Prototype, Promotional Material, and Documentation  
 link to relevant links for prototype, promotional material & documentation
