@@ -1,10 +1,12 @@
 <template>
   <div class="card-row-outer">
     <p class="subtitle1">{{ name }}</p>
-    <div class="card-row" 
-    v-for="(card, index) in info"
-    :key="index">
-      <Card :info="{x: 1}" />
+    <div class="card-row"> 
+      <div
+      v-for="(card, index) in info"
+      :key="index">
+        <Card :info="card" />
+      </div> 
     </div>
   </div>
 </template>

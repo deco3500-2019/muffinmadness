@@ -1,6 +1,6 @@
 <template>
   <div class="card-header-top">
-    <p class="overline">Breakfast</p>
+    <p class="overline">{{ info.recipeType }}</p>
     <div class="card-header-cta-group">
       <i @click="toggleRecipeInMealplan" v-if="recipeNotInMealplan" class="material-icons">remove_circle</i>
       <i @click="toggleRecipeInMealplan" v-else class="material-icons">add_circle_outline</i>
@@ -12,10 +12,15 @@
 
 <script>
 export default {
+  props: {
+    info: {
+      type: Object
+    }
+  },
   data() {
     return {
-      recipeNotInMealplan: false,
-      itemsInCart: false
+      recipeNotInMealplan: this.info.isInMealPlan,
+      itemsInCart: this.info.isInCart
     }
   },
   methods: {

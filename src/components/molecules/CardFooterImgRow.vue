@@ -1,12 +1,12 @@
 <template>
   <div class="card-footer-img-row">
-    <p v-if="topline" class="overline">Ingredients</p>
+    <p v-if="topline" class="overline">{{ (info.hasOwnProperty('ingredients') ? 'Ingredients' : 'Meals') }}</p>
     <div v-if="topline" class="ingredient-row">
-      <div class="ingredient">
-        <i class="material-icons">info</i>
-      </div>
-      <div class="ingredient">
-        <i class="material-icons">info</i>
+      <div 
+      v-for="(item, index) in info.ingredients.slice(0,7)"
+      :key="index">
+        <Ingredient v-if="index < 7" :info="item" />
+        <Ingredient v-else />
       </div>
     </div>
     <div v-else class="btn-row">
@@ -16,7 +16,17 @@
 </template>
 
 <script>
+import Ingredient from "@/components/atoms/Ingredient.vue";
+
 export default {
+  components: {
+    Ingredient
+  },
+  props: {
+    info: {
+      type: Object
+    }
+  },
   data() {
     return {
       topline: null
@@ -52,11 +62,5 @@ export default {
   padding-top: 0;
   margin-bottom: 0;
   padding-bottom: 0;
-}
-.ingredient {
-  height: 40px;
-  width: 40px;
-  margin-right: 0.5rem;
-  background-color: lightgray;
 }
 </style>

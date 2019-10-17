@@ -1,11 +1,11 @@
 <template>
-  <div class="card" :style="{ 'background-image': 'url(' + props.image + ');' }">
+  <div class="card" :style="{ 'background-image': 'url(' + info.image + ')' }">
     <div class="card-header">
-      <CardHeaderTopline v-if="topline" />
-      <CardHeaderBody />
+      <CardHeaderTopline v-if="topline" :info="info.header.topline" />
+      <CardHeaderBody :info="info.header.body" />
     </div>
     <div class="card-footer">
-      <CardFooterImgRow />
+      <CardFooterImgRow :info="info.footer" />
     </div>
   </div>
 </template>
@@ -21,15 +21,18 @@ export default {
     CardHeaderBody,
     CardFooterImgRow
   },
-  props: ['info'],
+  props: {
+    info: {
+      type: Object
+    }
+  },
   data() {
     return {
       topline: true,
     }
   },
   created() {
-    console.log(this.props);
-    if (this.props.cardType !== "Trending users to follow") {
+    if (this.info.cardType !== "Trending users to follow") {
       this.topline = true;
     } else {
       this.topline = false;

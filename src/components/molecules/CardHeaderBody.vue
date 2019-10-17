@@ -3,21 +3,18 @@
     <div>
       <div>
         <img v-if="!topline || mealplan" class="card-header-body-profile-img" src="https://i0.wp.com/studiolorier.com/wp-content/uploads/2018/10/Profile-Round-Sander-Lorier.jpg?ssl=1&fbclid=IwAR0QKzJ-ie3qOYEv7FX4DElIzgYe99qxhIEkhHsjpYQKJYhG6GtnZwi-CfE">
-        <h5 class="recipe-name">Vegan Omelette of awesomeness</h5>
+        <h5 class="recipe-name">{{ info.name }}</h5>
       </div>
       <button v-if="!topline" class="follow-btn button filled-button-small">Follow</button>
     </div>
     <div v-if="topline">
       <!-- make per square and data into one component vertically -->
       <div class='info-squares-group'>
-        <!-- <div class="info-square"><img src="https://img.icons8.com/bubbles/100/000000/around-the-globe.png"></div>
-        <div class="info-square"><img src="https://img.icons8.com/bubbles/100/000000/heart-with-pulse.png"></div>
-        <div class="info-square"><img src="https://img.icons8.com/bubbles/100/000000/time-machine.png"></div>
-        <div class="info-square"><img src="https://img.icons8.com/bubbles/100/000000/money.png"></div> -->
-        <InfoSquare />
-        <InfoSquare />
-        <InfoSquare />
-        <InfoSquare />
+        <div 
+        v-for="(square, objKey) in info.infoSquares"
+        :key="objKey">
+          <InfoSquare :info="{square:square, objKey:objKey}" />
+        </div>
       </div>
     </div>
     <div v-else>
@@ -36,6 +33,11 @@ export default {
   components: {
     InfoSquare,
     UserSocialStatus
+  },
+  props: {
+    info: {
+      type: Object
+    }
   },
   data() {
     return {
@@ -83,6 +85,8 @@ export default {
 }
 .info-squares-group {
   display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
 }
 .add-padding-top {
   padding-top: 0.5rem;
