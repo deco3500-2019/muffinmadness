@@ -1,9 +1,24 @@
-# Team Muffin Madness
-## Link To Project Proposal
-https://github.com/deco3500-2019/muffinmadness/wiki/Proposal
+# project-nutrisus
 
-## Link to Promotional Material and Documentation
-https://github.com/deco3500-2019/muffinmadness/wiki/Documentation
+## Project setup
+```
+npm install
+```
 
-## Link to Working Prototype  
-link to relevant links for prototype, promotional material & documentation coming later this year..
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
