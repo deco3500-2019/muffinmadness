@@ -2,8 +2,8 @@
   <div class="card-row-outer">
     <p class="subtitle1">{{ name }}</p>
     <div class="card-row">
-      <Card />
-      <Card />
+      <Card name=name />
+      <Card name=name />
     </div>
   </div>
 </template>
@@ -15,6 +15,20 @@ export default {
   props: ['name'],
   components: {
     Card
+  },
+  data() {
+    return {
+      influencers: null,
+      ingredients: null,
+      mealPlans: null,
+      recipes: null,
+    }
+  },
+  mounted () {
+    this.influencers = this.$store.getters.getInfluencers;
+    this.ingredients = this.$store.getters.getIngredients;
+    this.mealPlans = this.$store.getters.getMealPlans;
+    this.recipes = this.$store.getters.getRecipes;
   }
 }
 </script>

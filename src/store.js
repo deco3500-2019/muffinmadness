@@ -1,19 +1,24 @@
 import Vue from "vue";
 import Vuex from "vuex";
 
-import db from "./DB/test.js";
+import Influencers from "@/DB/influencers.js";
+import Ingredients from "@/DB/ingredients.js";
+import MealPlans from "@/DB/mealPlans.js";
+import Recipes from "@/DB/recipes.js";
 
 Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
-    data: db.id,
+    influencers: Influencers,
+    ingredients: Ingredients,
+    mealPlans: MealPlans,
+    recipes: Recipes,
     topline: null
   },
   mutations: {
     'SET_TOPLINE_STATE' (state, payload) {
       state.topline = payload;
-      console.log(payload);
     }
   },
   actions: {
@@ -22,8 +27,17 @@ export default new Vuex.Store({
     }
   },
   getters: {
-    getData: state => {
-      return state.data;
+    getInfluencers: state => {
+      return state.influencers;
+    },
+    getIngredients: state => {
+      return state.ingredients;
+    },
+    getMealPlans: state => {
+      return state.mealPlans;
+    },
+    getRecipes: state => {
+      return state.recipes;
     },
     getToplineState: state => {
       return state.topline;

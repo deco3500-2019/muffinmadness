@@ -1,7 +1,7 @@
 <template>
   <div class="card">
     <div class="card-header">
-      <CardHeaderTopline v-if="topline"/>
+      <CardHeaderTopline v-if="topline" />
       <CardHeaderBody />
     </div>
     <div class="card-footer">
@@ -21,17 +21,14 @@ export default {
     CardHeaderBody,
     CardFooterImgRow
   },
+  props: ['name'],
   data() {
     return {
-      id: null,
-      topline: true
+      topline: true,
     }
   },
   created() {
     this.$store.dispatch('setToplineState', this.topline)
-  },
-  mounted () {
-    this.id = this.$store.getters.getData;
   }
 }
 </script>
