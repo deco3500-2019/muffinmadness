@@ -1,6 +1,7 @@
 import Vue from "vue";
 import Vuex from "vuex";
 
+import User from "@/DB/user.js";
 import Influencers from "@/DB/influencers.js";
 import Ingredients from "@/DB/ingredients.js";
 import MealPlans from "@/DB/mealPlans.js";
@@ -10,6 +11,7 @@ Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
+    user: User,
     influencers: Influencers,
     ingredients: Ingredients,
     mealPlans: MealPlans,
@@ -27,6 +29,9 @@ export default new Vuex.Store({
     }
   },
   getters: {
+    getUser: state => {
+      return state.user;
+    },
     getInfluencers: state => {
       return state.influencers;
     },
