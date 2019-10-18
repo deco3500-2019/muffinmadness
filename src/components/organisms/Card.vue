@@ -2,7 +2,7 @@
   <div class="card" :style="{ 'background-image': 'url(' + info.image + ')' }">
     <div class="card-header">
       <CardHeaderTopline v-if="topline" :info="info.header.topline" />
-      <CardHeaderBody :info="info.header.body" :profileImg="profileImg" />
+      <CardHeaderBody :info="info.header.body" />
     </div>
     <div class="card-footer">
       <CardFooterImgRow :info="info.footer" />
@@ -28,8 +28,7 @@ export default {
   },
   data() {
     return {
-      topline: true,
-      profileImg: null
+      topline: true
     }
   },
   created() {
@@ -37,11 +36,6 @@ export default {
       this.topline = true;
     } else {
       this.topline = false;
-    }
-    if (this.info.cardType === "Recommended meal plans") {
-      this.profileImg = true;
-    } else {
-      this.profileImg = false;
     }
     this.$store.dispatch('setToplineState', this.topline)
   }
