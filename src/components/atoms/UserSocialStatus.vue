@@ -1,12 +1,25 @@
 <template>
   <div class="user-social-status">
     <div class="social-status-label">
-      <i class="material-icons">group</i>
+      <i class="material-icons">{{ (info[1] === 0) ? 'group' : 'favorite' }}</i>
       <p class="overline">Followers</p>
     </div>
-    <h6>131 926</h6>
+    <h6>{{ info[0] }}</h6>
   </div>
 </template>
+
+<script>
+export default {
+  props: {
+    info: {
+      type: Array
+    },
+    profileImg: {
+      type: Boolean
+    }
+  }
+}
+</script>
 
 <style scoped>
 .user-social-status {

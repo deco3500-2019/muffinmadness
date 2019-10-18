@@ -2,7 +2,8 @@
   <div class="card-header-body" :class="{ 'add-padding-top': !topline}">
     <div>
       <div>
-        <img v-if="!topline || mealplan" class="card-header-body-profile-img" src="https://i0.wp.com/studiolorier.com/wp-content/uploads/2018/10/Profile-Round-Sander-Lorier.jpg?ssl=1&fbclid=IwAR0QKzJ-ie3qOYEv7FX4DElIzgYe99qxhIEkhHsjpYQKJYhG6GtnZwi-CfE">
+        <!-- fix profile img -->
+        <img v-if="mealplan" class="card-header-body-profile-img" src="https://i0.wp.com/studiolorier.com/wp-content/uploads/2018/10/Profile-Round-Sander-Lorier.jpg?ssl=1&fbclid=IwAR0QKzJ-ie3qOYEv7FX4DElIzgYe99qxhIEkhHsjpYQKJYhG6GtnZwi-CfE">
         <h5 class="recipe-name">{{ info.name }}</h5>
       </div>
       <button v-if="!topline" class="follow-btn button filled-button-small">Follow</button>
@@ -18,9 +19,11 @@
       </div>
     </div>
     <div v-else>
-      <UserSocialStatus />
-      <UserSocialStatus />
-      <!-- insert social components - followers - likes -->
+      <div 
+      v-for="(item, index) in info.userSocialStatus"
+      :key="index">
+        <UserSocialStatus :info="[item, index]" />
+      </div>
     </div>
   </div>
 </template>
@@ -37,12 +40,15 @@ export default {
   props: {
     info: {
       type: Object
+    },
+    profileImg: {
+      type: Boolean
     }
   },
   data() {
     return {
       topline: null,
-      mealplan: false
+      mealplan: this.profileImg
     }
   },
   created() {

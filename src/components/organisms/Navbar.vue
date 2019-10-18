@@ -40,7 +40,8 @@
   color: #444444;
 }
 .router-link-exact-active > i {
-  border-bottom: 1px solid var(--main-font-color);
+  color: var(--secondary-bg-color);
+  border-bottom: 1px solid var(--secondary-bg-color);
 }
 .nav-btn:first-child {
   border-right: 1px solid lightgray;

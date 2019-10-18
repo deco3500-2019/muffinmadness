@@ -5,8 +5,8 @@
       <div 
       v-for="(item, index) in info.ingredients.slice(0,7)"
       :key="index">
-        <Ingredient v-if="index < 7" :info="item" />
-        <Ingredient v-else />
+        <Ingredient v-if="index < 6" :info="item" />
+        <Ingredient v-else :info="[info.ingredients.length-6]" />
       </div>
     </div>
     <div v-else class="btn-row">

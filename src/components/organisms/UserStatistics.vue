@@ -16,7 +16,7 @@
       <div class="statistics-box-outer">
         <div class="statistics-box-inner">
           <p class="overline">Your impact</p>
-          <h5>1023g GHG</h5>
+          <h5><span id="impact">-32%</span> avg.</h5>
         </div>
       </div>
     </div>
@@ -53,5 +53,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+#impact {
+  color: var(--secondary-bg-color);
 }
 </style>

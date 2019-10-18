@@ -14,7 +14,7 @@
 <script>
 import Card from "@/components/organisms/Card.vue";
 
-import { extractMealData } from '@/utils/dbConnect.js';
+import { extractUserMealPlanRecipes, extractMealPlanRecipes, extractRecommendedDishes, extractInfluencers } from '@/utils/dbConnect.js';
 
 export default {
   components: {
@@ -38,25 +38,43 @@ export default {
     this.mealPlans = this.$store.getters.getMealPlans;
     this.recipes = this.$store.getters.getRecipes;
 
-    // chooses the different content of the data variable based on card type
+    // chooses the different content of the info variable based on card type
     switch(this.name) {
       case "Today's meal plan":
-        this.info = extractMealData([
-          this.user, 
-          this.influencers, 
+        this.info = extractUserMealPlanRecipes([
+          this.user,
           this.ingredients, 
           this.mealPlans, 
           this.recipes
           ]);
         break;
       case "Recommended meal plans":
-        // code block
+        // extract reccommendedMealPlansData
+        this.info = extractMealPlanRecipes([
+          this.user,
+          this.influencers,
+          this.ingredients,
+          this.mealPlans, 
+          this.recipes
+          ]);
         break;
       case "Recommended dishes":
-      // code block
+        this.info = extractRecommendedDishes([
+          this.user,
+          this.influencers,
+          this.ingredients,
+          this.mealPlans, 
+          this.recipes
+        ]);
         break;
       case "Trending users to follow":
-      // code block  
+        this.info = extractInfluencers([
+          this.user,
+          this.influencers,
+          this.ingredients,
+          this.mealPlans, 
+          this.recipes
+        ]);
         break;
     }
   }

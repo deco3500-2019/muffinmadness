@@ -21,6 +21,7 @@ export default {
   --secondary-bg-color: #8BC34A;
   --main-font-color: #444444;
   --negative-color: #757575;
+  --secondary-font-color: lightgray;
 }
 
 html, body {
