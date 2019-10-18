@@ -113,7 +113,7 @@ export default [
         sustainability: 4,
         health: 5
     },
-    image: "https://img.taste.com.au/0ZFbzO-j/w720-h480-cfill-q80/taste/2016/11/brekkie-crumble-105100-1.jpeg",
+    image: "https://img.taste.com.au/kXc-WSTI/w720-h480-cfill-q80/taste/2018/02/granola-pancakes-135370-1.jpg",
     videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
     videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
     videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",

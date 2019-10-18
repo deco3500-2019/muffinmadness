@@ -15,7 +15,7 @@ export default [
   {
     id: 1,
     name: "Gordon Ramsay",
-    image: "https://yt3.ggpht.com/a/AGF-l7_6r_NR0iZWw6Tm_eDIiYy35mIUoPqKPUCfgw=s900-c-k-c0xffffffff-no-rj-mo",
+    image: "https://media.bizj.us/view/img/11427796/gordon-ramsay-1*750xx3840-2166-0-66.jpg",
     followers: 131926,
     likes: 37091,
     recipes: [
@@ -41,7 +41,7 @@ export default [
   {
     id: 3,
     name: "Kylie Kwong",
-    image: "https://img.delicious.com.au/gfGgpfUK/w506-h506-cfill/del/2015/10/kylie-kwongs-favourite-sydney-food-fixes-9856-1.jpg",
+    image: "https://www.goodfood.com.au/content/dam/images/g/t/z/6/k/3/image.related.articleLeadwide.620x349.gtzwcs.png/1488244014270.jpg",
     followers: 131926,
     likes: 37091,
     recipes: [
@@ -67,7 +67,7 @@ export default [
   {
     id: 5,
     name: "Poh Ling Yeow",
-    image: "https://www.instagram.com/p/BxXC_fLj7Nm/media/?size=l",
+    image: "https://www.anu.edu.au/files/styles/anu_full_920_518/public/event/Poh%20Ling%20Yeow.jpg?itok=aIoVK64z",
     followers: 131926,
     likes: 37091,
     recipes: [
