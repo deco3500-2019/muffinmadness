@@ -4,7 +4,6 @@
       <div>
         <h5 class="recipe-name">{{ info.name }}</h5>
       </div>
-      <button v-if="!topline" class="follow-btn button filled-button-small">Follow</button>
     </div>
     <div v-if="topline">
       <!-- make per square and data into one component vertically -->
@@ -55,7 +54,7 @@ export default {
 .card-header-body {
   padding-top: 0;
   padding-bottom: 0;
-  height: -webkit-fill-available;
+  height: 90%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -75,7 +74,7 @@ export default {
   margin-right: 0.25rem;
 }
 .recipe-name {
-  max-width: 200px;
+  max-width: 260px;
   max-height: 60px;
   margin-bottom: 0;
   overflow: hidden;
@@ -87,6 +86,7 @@ export default {
   display: flex;
   flex-direction: row-reverse;
   justify-content: flex-end;
+  margin-bottom: 0.5rem;
 }
 .add-padding-top {
   padding-top: 0.5rem;

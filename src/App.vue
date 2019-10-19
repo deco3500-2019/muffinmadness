@@ -51,6 +51,10 @@ h6 { font-size: 1.5rem; font-weight: 500; letter-spacing: 0.15; }
 #screen {
   padding-bottom: 50px;
 }
+a {
+  color: var(--main-font-color);
+  text-decoration: none;
+}
 .button {
   padding: 1rem;
   background-color: #fff;
@@ -62,11 +66,12 @@ h6 { font-size: 1.5rem; font-weight: 500; letter-spacing: 0.15; }
   cursor: pointer;
 }
 .border-button {
-  border: 1px solid var(--secondary-bg-color);
+  border: 1px solid rgba(0,0,0,0.2);
+  background: transparent;
+  padding: 0.75rem 1rem;
 }
 .filled-button, .filled-button-small {
   background-color: var(--secondary-bg-color);
-  
 }
 .filled-button {
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
@@ -74,6 +79,10 @@ h6 { font-size: 1.5rem; font-weight: 500; letter-spacing: 0.15; }
 .filled-button-small, .cancel-button-small {
   padding: 0.25rem 0.5rem;
   height: 23px;
+}
+.no-background-button {
+  background: transparent;
+  padding: 0.25rem 0.75rem;
 }
 .cancel-button-small {
   background-color: var(--negative-color);

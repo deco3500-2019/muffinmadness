@@ -1,9 +1,13 @@
 <template>
   <div class="info-square">
-    <img v-if="info.objKey === 'time'" src="https://img.icons8.com/bubbles/100/000000/time-machine.png">
+    <!-- <img v-if="info.objKey === 'time'" src="https://img.icons8.com/bubbles/100/000000/time-machine.png">
     <img v-else-if="info.objKey === 'cost'" src="https://img.icons8.com/bubbles/100/000000/money.png">
     <img v-else-if="info.objKey === 'sustainability'" src="https://img.icons8.com/bubbles/100/000000/around-the-globe.png">
-    <img v-else src="https://img.icons8.com/bubbles/100/000000/heart-with-pulse.png">
+    <img v-else src="https://img.icons8.com/bubbles/100/000000/heart-with-pulse.png"> -->
+    <i  v-if="info.objKey === 'time'" class="material-icons">access_time</i>
+    <i  v-else-if="info.objKey === 'cost'" class="material-icons">attach_money</i>
+    <i  v-else-if="info.objKey === 'sustainability'" class="material-icons">eco</i>
+    <i  v-else class="material-icons">favorite</i>
     <p>{{ info.square }}</p>
   </div>
 </template>
@@ -40,8 +44,10 @@ export default {
   margin: 0 0.5rem 0 0;
   width: 50px;
 }
-.info-square > img {
-  height: 50px;
+.info-square > i {
+  height: 30px;
+  display: flex;
+  align-self: center;
 }
 .info-square > p {
   text-align: center;

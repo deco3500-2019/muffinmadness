@@ -10,7 +10,7 @@
       </div>
     </div>
     <div v-else class="btn-row">
-      <button class="button">See More</button>
+      <button class="button">Follow</button>
     </div>
   </div>
 </template>

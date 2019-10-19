@@ -14,7 +14,13 @@
 <script>
 import Card from "@/components/organisms/Card.vue";
 
-import { extractUserMealPlanRecipes, extractMealPlanRecipes, extractRecommendedDishes, extractInfluencers } from '@/utils/dbConnect.js';
+import {
+  extractUserMealPlanRecipes,
+  extractMealPlanRecipes,
+  extractRecommendedDishes,
+  extractInfluencers,
+  extractMealPlanPageRecipes
+  } from '@/utils/dbConnect.js';
 
 export default {
   components: {
@@ -39,42 +45,47 @@ export default {
     this.recipes = this.$store.getters.getRecipes;
 
     // chooses the different content of the info variable based on card type
-    switch(this.name) {
-      case "Today's meal plan":
-        this.info = extractUserMealPlanRecipes([
+    const payload = [
           this.user,
+          this.influencers,
           this.ingredients, 
           this.mealPlans, 
           this.recipes
-          ]);
+          ];
+    switch(this.name) {
+      case "Today's meal plan":
+        this.info = extractUserMealPlanRecipes(payload);
         break;
       case "Recommended meal plans":
         // extract reccommendedMealPlansData
-        this.info = extractMealPlanRecipes([
-          this.user,
-          this.influencers,
-          this.ingredients,
-          this.mealPlans, 
-          this.recipes
-          ]);
+        this.info = extractMealPlanRecipes(payload);
         break;
       case "Recommended dishes":
-        this.info = extractRecommendedDishes([
-          this.user,
-          this.influencers,
-          this.ingredients,
-          this.mealPlans, 
-          this.recipes
-        ]);
+        this.info = extractRecommendedDishes(payload);
         break;
       case "Trending users to follow":
-        this.info = extractInfluencers([
-          this.user,
-          this.influencers,
-          this.ingredients,
-          this.mealPlans, 
-          this.recipes
-        ]);
+        this.info = extractInfluencers(payload);
+        break;
+      case "Monday":
+        this.info = extractMealPlanPageRecipes(payload, 0);
+        break;
+      case "Tuesday":
+        this.info = extractMealPlanPageRecipes(payload, 1);
+        break;
+      case "Wednesday":
+        this.info = extractMealPlanPageRecipes(payload, 2);
+        break;
+      case "Thursday":
+        this.info = extractMealPlanPageRecipes(payload, 3);
+        break;
+      case "Friday":
+        this.info = extractMealPlanPageRecipes(payload, 4);
+        break;
+      case "Saturday":
+        this.info = extractMealPlanPageRecipes(payload, 5);
+        break;
+      case "Sunday":
+        this.info = extractMealPlanPageRecipes(payload, 6);
         break;
     }
   }

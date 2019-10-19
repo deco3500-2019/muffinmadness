@@ -1,8 +1,20 @@
 <template>
-  <div class="card" :style="{ 'background-image': 'url(' + info.image + ')' }">
-    <div class="card-header">
-      <CardHeaderTopline v-if="topline" :info="info.header.topline" />
-      <CardHeaderBody :info="info.header.body" />
+  <div class="card">
+    <router-link v-if="isDisabled" to="/recipe">
+      <div class="card-header" :style="{ 'background-image': 'linear-gradient(rgba(255, 255, 255, 0.3),rgba(255, 255, 255, 0.1)),url(' + info.image + ')' }">
+        <div class="card-header-overlay">
+          <CardHeaderTopline v-if="topline" :info="info.header.topline" />
+          <CardHeaderBody :info="info.header.body" />
+        </div>
+      </div>
+    </router-link>
+    <div v-else>
+      <div class="card-header" :style="{ 'background-image': 'linear-gradient(rgba(255, 255, 255, 0.3),rgba(255, 255, 255, 0.1)),url(' + info.image + ')' }">
+        <div class="card-header-overlay">
+          <CardHeaderTopline v-if="topline" :info="info.header.topline" />
+          <CardHeaderBody :info="info.header.body" />
+        </div>
+      </div>
     </div>
     <div class="card-footer">
       <CardFooterImgRow :info="info.footer" />
@@ -28,7 +40,8 @@ export default {
   },
   data() {
     return {
-      topline: true
+      topline: true,
+      isDisabled: (this.info.cardType === "recipe") ? true : false
     }
   },
   created() {
@@ -52,20 +65,38 @@ export default {
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   /* End of sourced code */
   flex: 0 0 auto;
-  /* background-image: url("https://img.taste.com.au/jfM_AXMk/w720-h480-cfill-q80/taste/2016/11/apple-and-yoghurt-flower-54725-1.jpeg?fbclid=IwAR0LQgR7ndcSa1hkp3nC-x2Z-LWpqB3S7XyzcxNvP4_92OhFhK29DhgBphA"); */
-  background-size: cover;
 }
 .card p, .card h5 {
   margin: 0 0 0.5rem 0;
+  text-shadow: 0 1px 3px rgba(255,255,255,0.12), 0 1px 2px rgba(255,255,255,0.24);
 }
 .card-header > *, .card-footer > * {
   padding: 0.5rem;
+}
+.card-header-overlay {
+  padding-bottom: 0;
+  pointer-events: none;
+  background-image:
+  linear-gradient(
+    to top, 
+    rgba(255,255,255, 1) 0%,
+    rgba(255,255,255, .9) 5%,
+    rgba(255,255,255, .7) 10%,
+    rgba(255,255,255, .5) 15%, 
+    rgba(255,255,255, .3) 20%,
+    rgba(255,255,255, .1) 25%,
+    rgba(255,255,255, 0) 30%
+  );
+  height: 100%;
+}
+.video-overlay {
+  padding: 0 !important;
 }
 .card-header {
   height: 76%;
   display: flex;
   flex-direction: column;
-  background: linear-gradient(to bottom, rgba(255,255,255, 0.1) 0%, rgba(255, 255, 255, 1) 90%);
+  background-size: cover;
 }
 .card-footer {
   height: 24%;

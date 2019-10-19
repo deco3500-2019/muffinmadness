@@ -10,13 +10,13 @@
       <div class="statistics-box-outer">
         <div class="statistics-box-inner">
           <p class="overline">Xp to next level</p>
-          <h5>325 XP</h5>
+          <h5>325 <span class="small-text">XP</span></h5>
         </div>
       </div>
       <div class="statistics-box-outer">
         <div class="statistics-box-inner">
           <p class="overline">Your impact</p>
-          <h5><span id="impact">-32%</span> avg.</h5>
+          <h5><span id="impact">-32% </span><span class="small-text">AVG.</span></h5>
         </div>
       </div>
     </div>
@@ -56,5 +56,8 @@
 }
 #impact {
   color: var(--secondary-bg-color);
+}
+.small-text {
+  font-size: 0.725rem;
 }
 </style>
