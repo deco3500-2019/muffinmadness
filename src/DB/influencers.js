@@ -2,7 +2,7 @@ export default [
   {
     id: 0,
     name: "Jamie Oliver",
-    image: "https://cdn.jamieoliver.com/library/images/Jamie-Social.jpg",
+    image: "https://cdn.livekindly.co/wp-content/uploads/2019/02/livekindly-jamie-oliver-Cropped-1.jpg",
     followers: 131926,
     likes: 37091,
     recipes: [
