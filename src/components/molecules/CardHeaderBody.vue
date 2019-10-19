@@ -1,5 +1,5 @@
 <template>
-  <div class="card-header-body" :class="{ 'add-padding-top': !topline}">
+  <router-link v-if="!isRecipePage" tag="div" :to="{ name: 'recipe', params: { name: info.name, recipeData: recipeData } }" class="card-header-body" :class="{ 'add-padding-top': !topline}">
     <div>
       <div>
         <h5 class="recipe-name">{{ info.name }}</h5>
@@ -22,7 +22,7 @@
         <UserSocialStatus :info="[item, index]" />
       </div>
     </div>
-  </div>
+  </router-link>
 </template>
 
 <script>
@@ -35,9 +35,9 @@ export default {
     UserSocialStatus
   },
   props: {
-    info: {
-      type: Object
-    }
+    info: Object,
+    isRecipePage: Boolean,
+    recipeData: Object
   },
   data() {
     return {

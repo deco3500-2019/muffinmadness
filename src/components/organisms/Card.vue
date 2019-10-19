@@ -1,19 +1,18 @@
 <template>
   <div class="card">
-    <router-link v-if="isDisabled" to="/recipe">
-      <div class="card-header" :style="{ 'background-image': 'linear-gradient(rgba(255, 255, 255, 0.3),rgba(255, 255, 255, 0.1)),url(' + info.image + ')' }">
-        <div class="card-header-overlay">
-          <CardHeaderTopline v-if="topline" :info="info.header.topline" />
-          <CardHeaderBody :info="info.header.body" />
-        </div>
-      </div>
-    </router-link>
-    <div v-else>
-      <div class="card-header" :style="{ 'background-image': 'linear-gradient(rgba(255, 255, 255, 0.3),rgba(255, 255, 255, 0.1)),url(' + info.image + ')' }">
-        <div class="card-header-overlay">
-          <CardHeaderTopline v-if="topline" :info="info.header.topline" />
-          <CardHeaderBody :info="info.header.body" />
-        </div>
+    <div class="card-header" :style="{ 'background-image': 'linear-gradient(rgba(255, 255, 255, 0.3),rgba(255, 255, 255, 0.1)),url(' + info.image + ')' }">
+      <div class="card-header-overlay" :class="{'video-overlay': isRecipePage }">
+
+          <div v-if="isRecipePage" style="position: absolute; width: 411px; height: 212px; z-index: 1;">
+            <iframe id="inlineFrameExample"
+            width="100%"
+            height="100%"
+            src="https://www.youtube.com/embed/RJf6bXqpPgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            </iframe>
+          </div>
+
+        <CardHeaderTopline v-if="topline" :info="info.header.topline" />
+        <CardHeaderBody :info="info.header.body" :isRecipePage="isRecipePage" :recipeData="info" />
       </div>
     </div>
     <div class="card-footer">
@@ -41,7 +40,7 @@ export default {
   data() {
     return {
       topline: true,
-      isDisabled: (this.info.cardType === "recipe") ? true : false
+      isRecipePage: (this.info.cardType === "recipe") ? true : false
     }
   },
   created() {
@@ -75,7 +74,6 @@ export default {
 }
 .card-header-overlay {
   padding-bottom: 0;
-  pointer-events: none;
   background-image:
   linear-gradient(
     to top, 
@@ -90,7 +88,7 @@ export default {
   height: 100%;
 }
 .video-overlay {
-  padding: 0 !important;
+  padding: 0;
 }
 .card-header {
   height: 76%;
