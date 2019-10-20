@@ -78,7 +78,29 @@ export default {
             borderColor: 'rgba(0, 0, 0, 0)',
             data: [0, 5]
         }]
+      },
+      options: {
+        scales: {
+          xAxes: [{
+            gridLines: {
+              display: true,
+              color:'rgba(0,0,0,0)'
+            }
+          }],
+          yAxes: [{
+            gridLines: {
+              display: true,
+              color:'rgba(0,0,0,0)'
+            }
+          }]
+        },
+        legend: {
+          labels: {
+            boxWidth: 1
+          }
+        }
       }
+      
     });
   },
   methods: {
