@@ -19,7 +19,8 @@ export default new Vuex.Store({
     mealPlans: MealPlans,
     recipes: Recipes,
     topline: null,
-    userTodaysMeals: {}
+    userTodaysMeals: {},
+    recommendedMeals: {}
   },
   mutations: {
     'SET_TOPLINE_STATE' (state, payload) {
@@ -27,6 +28,9 @@ export default new Vuex.Store({
     },
     'SET_TODAYSMEALS_STATE' (state, payload) {
       state.userTodaysMeals = payload;
+    },
+    'SET_RECOMMENDEDMEALS_STATE' (state, payload) {
+      state.recommendedMeals = payload;
     }
   },
   actions: {
@@ -36,6 +40,9 @@ export default new Vuex.Store({
     setTodaysMeals: ({ commit }, payload) => {
       commit('SET_TODAYSMEALS_STATE', payload);
     },
+    setRecommendedMeals: ({ commit }, payload) => {
+      commit('SET_RECOMMENDEDMEALS_STATE', payload);
+    }
   },
   getters: {
     getUser: state => {
@@ -65,5 +72,8 @@ export default new Vuex.Store({
     getTodaysMeals: state => {
       return state.userTodaysMeals;
     },
+    getRecommendedMeals: state => {
+      return state.recommendedMeals;
+    }
   }
 });

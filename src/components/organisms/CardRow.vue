@@ -6,7 +6,8 @@
       <div
       v-for="(card, index) in info"
       :key="index">
-        <FlatCard v-if="card === 'empty card'" />
+        <SuccessCard v-if="card === 'success'" />
+        <FlatCard v-else-if="card === 'empty card'" />
         <Card v-else :allData="info[index]" :info="card" :index="index" :list="info" />
       </div> 
     </div>
@@ -16,6 +17,7 @@
 <script>
 import Card from "@/components/organisms/Card.vue";
 import FlatCard from "@/components/organisms/FlatCard.vue";
+import SuccessCard from "@/components/organisms/SuccessCard.vue";
 
 import { eventBus } from '@/main.js';
 
@@ -30,7 +32,8 @@ import {
 export default {
   components: {
     Card,
-    FlatCard
+    FlatCard,
+    SuccessCard
   },
   props: {
     name: String,
@@ -78,6 +81,7 @@ export default {
       case "Recommended meal plans":
         // extract reccommendedMealPlansData
         this.info = extractMealPlanRecipes(payload);
+        this.$store.dispatch('setRecommendedMeals', this.info);
         break;
       case "Recommended dishes":
         this.info = extractRecommendedDishes(payload);

@@ -30,13 +30,18 @@ export default {
       if (this.list[this.index].cardType === "Today's meal plan") {
         this.list.splice(this.index, 1, 'empty card');
       } else if (this.list[this.index].cardType === "Recommended meal plans") {
-        this.list.splice(this.index, 1)
+        
+        this.list.splice(this.index, 1, 'success');
+
+        let that = this;
+        setTimeout(function(){
+          that.list.splice(this.index, 1)
+        }, 1000);
+
       } else {
         let meals = this.$store.getters.getTodaysMeals;
-        console.log(meals);
 
         for (let [index, item] of meals.entries()) {
-          console.log(index);
           if (item === 'empty card') {
             this.list[this.index].header.topline.isInMealPlan = true;
             this.list[this.index].cardType = "Today's meal plan";
