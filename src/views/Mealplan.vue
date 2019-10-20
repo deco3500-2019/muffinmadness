@@ -5,7 +5,7 @@
       </div>
       
     <h5 class="top-title">YOUR CURRENT MEALPLAN</h5>
-    <!-- insert graph here -->
+    <canvas id="myChart"></canvas>
     
     <h5 @click="show = !show">This week 
       <span class="icon-box">
