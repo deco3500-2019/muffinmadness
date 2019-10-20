@@ -7,7 +7,7 @@ import Ingredients from "@/DB/ingredients.js";
 import MealPlans from "@/DB/mealPlans.js";
 import Recipes from "@/DB/recipes.js";
 
-import { findRecipe } from "@/utils/dbConnect.js";
+import { findRecipe, findRecipeById } from "@/utils/dbConnect.js";
 
 Vue.use(Vuex);
 
@@ -48,6 +48,9 @@ export default new Vuex.Store({
     },
     getSingularRecipe: (state) => (name) => {
       return findRecipe(state.recipes, name);
+    },
+    getRecipeById: (state) => (id) => {
+      return findRecipeById(state.recipes, id);
     },
     getToplineState: state => {
       return state.topline;

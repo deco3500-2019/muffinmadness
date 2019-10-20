@@ -52,6 +52,56 @@ export default {
     goBack() {
       this.$router.back();
     }
+  },
+  mounted() {
+    let currentMealPlanRecipes = this.$store.getters.getMealPlans[0].recipes;
+    let data = this.setMealPlanData(currentMealPlanRecipes);
+
+    let ctx = document.getElementById('myChart').getContext('2d');
+    let chart = new Chart(ctx, {
+      // The type of chart we want to create
+      type: 'line',
+    
+      // The data for our dataset
+      data: {
+        labels: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+        datasets: [{
+            label: 'Health',
+            backgroundColor: 'rgba(255, 90, 90, 0)',
+            borderColor: 'rgb(255, 50, 50)',
+            data: data[0]
+        }, 
+        {
+            label: 'Sustainability',
+            backgroundColor: 'rgba(255, 0, 0, 0)',
+            borderColor: 'rgb(34,139,34)',
+            data: data[1]
+        }]
+      }
+    });
+  },
+  methods: {
+    setMealPlanData(currentMealPlanRecipes){
+      let data = [[],[]];
+      for(let [index, day] of currentMealPlanRecipes.entries()){
+        let todayData = [[],[]];
+        for(let recipeId of day){
+          let recipe = this.$store.getters.getRecipeById(recipeId);
+          todayData[0].push(recipe.infoSquares.health);
+          todayData[1].push(recipe.infoSquares.sustainability);
+        }
+        let sumHealth = 0;
+        let sumSustain = 0;
+        for(index in todayData[0]){
+          sumHealth += todayData[0][index];
+          sumSustain += todayData[1][index];
+        }
+
+        data[0].push(sumHealth/todayData[0].length);
+        data[1].push(sumSustain/todayData[1].length);
+      }
+      return data;
+    }
   }
 }
 </script>
