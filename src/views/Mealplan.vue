@@ -64,7 +64,7 @@ export default {
     
       // The data for our dataset
       data: {
-        labels: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+        labels: ['M', 'Tu', 'W', 'Th', 'F', 'Sa', 'Su'],
         datasets: [{
             label: 'Health',
             backgroundColor: 'rgba(255, 90, 90, 0)',
