@@ -78,6 +78,7 @@ export default {
             data: data[1]
         }, 
         {
+            label: '',
             backgroundColor: 'rgba(0, 0, 0, 0)',
             borderColor: 'rgba(0, 0, 0, 0)',
             data: [0, 5]
