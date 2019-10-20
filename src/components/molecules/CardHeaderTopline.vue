@@ -11,11 +11,13 @@
 </template>
 
 <script>
+import { eventBus } from '@/main.js';
+
 export default {
   props: {
-    info: {
-      type: Object
-    }
+    info: Object,
+    index: Number,
+    list: Array
   },
   data() {
     return {
@@ -24,8 +26,9 @@ export default {
     }
   },
   methods: {
-    toggleRecipeInMealplan() {
-      this.recipeNotInMealplan = !this.recipeNotInMealplan
+    async toggleRecipeInMealplan() {
+      this.list.splice(this.index, 1);
+      
     },
     toggleAddToCart() {
       this.itemsInCart = !this.itemsInCart;

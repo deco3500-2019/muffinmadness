@@ -53,7 +53,7 @@ export default {
     } else if ( this.allData.cardType === "Recommended meal plans" ) { // click on influencer meal plan card
       this.destinationData = { name: 'influencer-mealplan', params: { id: this.allData.planId } }
     } else { // click on influencer card
-
+      
     }
   }
 }

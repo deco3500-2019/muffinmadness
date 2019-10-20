@@ -5,7 +5,7 @@
       <div
       v-for="(card, index) in info"
       :key="index">
-        <Card :allData="info[index]" :info="card" />
+        <Card :allData="info[index]" :info="card" :index="index" :list="info" />
       </div> 
     </div>
   </div>
@@ -13,6 +13,8 @@
 
 <script>
 import Card from "@/components/organisms/Card.vue";
+
+import { eventBus } from '@/main.js';
 
 import {
   extractUserMealPlanRecipes,

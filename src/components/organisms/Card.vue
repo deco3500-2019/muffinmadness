@@ -11,7 +11,7 @@
             </iframe>
           </div>
 
-        <CardHeaderTopline v-if="topline" :info="info.header.topline" />
+        <CardHeaderTopline v-if="topline" :info="info.header.topline" :index="index" :list="list" />
         <CardHeaderBody :info="info.header.body" :isRecipePage="isRecipePage" :recipeData="info" :allData="allData" />
       </div>
     </div>
@@ -34,7 +34,9 @@ export default {
   },
   props: {
     allData: Object,
-    info: Object
+    info: Object,
+    index: Number,
+    list: Array
   },
   data() {
     return {

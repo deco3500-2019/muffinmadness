@@ -42,7 +42,7 @@ export default new Vuex.Store({
     },
     getMealPlans: state => {
       return state.mealPlans;
-    },
+    }, 
     getRecipes: state => {
       return state.recipes;
     },
