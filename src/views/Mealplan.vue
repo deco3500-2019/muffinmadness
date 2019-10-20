@@ -76,6 +76,11 @@ export default {
             backgroundColor: 'rgba(255, 0, 0, 0)',
             borderColor: 'rgb(34,139,34)',
             data: data[1]
+        }, 
+        {
+            backgroundColor: 'rgba(0, 0, 0, 0)',
+            borderColor: 'rgba(0, 0, 0, 0)',
+            data: [0, 5]
         }]
       }
     });
