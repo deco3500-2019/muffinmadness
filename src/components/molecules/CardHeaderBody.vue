@@ -51,9 +51,9 @@ export default {
     if ( this.allData.cardType === "Today's meal plan" || this.allData.cardType === "Recommended dishes" ) { // click on recipe cards
       this.destinationData = { name: 'recipe', params: { name: this.info.name, recipeData: this.recipeData } }
     } else if ( this.allData.cardType === "Recommended meal plans" ) { // click on influencer meal plan card
-      this.destinationData = { name: 'influencer-mealplan', params: { id: this.allData.planId } }
+      this.destinationData = { name: 'influencer-mealplan', params: { id: this.allData.planId, info: this.allData.header.topline.recipeType } }
     } else { // click on influencer card
-      
+      // nothing happens
     }
   }
 }

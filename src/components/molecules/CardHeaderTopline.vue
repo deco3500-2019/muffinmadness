@@ -27,8 +27,25 @@ export default {
   },
   methods: {
     async toggleRecipeInMealplan() {
-      this.list.splice(this.index, 1);
-      
+      if (this.list[this.index].cardType === "Today's meal plan") {
+        this.list.splice(this.index, 1, 'empty card');
+      } else if (this.list[this.index].cardType === "Recommended meal plans") {
+        this.list.splice(this.index, 1)
+      } else {
+        let meals = this.$store.getters.getTodaysMeals;
+        console.log(meals);
+
+        for (let [index, item] of meals.entries()) {
+          console.log(index);
+          if (item === 'empty card') {
+            this.list[this.index].header.topline.isInMealPlan = true;
+            this.list[this.index].cardType = "Today's meal plan";
+            meals.splice(index, 1, this.list[this.index]);
+            this.list.splice(this.index, 1)
+            break;
+          }
+        }  
+      }
     },
     toggleAddToCart() {
       this.itemsInCart = !this.itemsInCart;

@@ -18,17 +18,24 @@ export default new Vuex.Store({
     ingredients: Ingredients,
     mealPlans: MealPlans,
     recipes: Recipes,
-    topline: null
+    topline: null,
+    userTodaysMeals: {}
   },
   mutations: {
     'SET_TOPLINE_STATE' (state, payload) {
       state.topline = payload;
+    },
+    'SET_TODAYSMEALS_STATE' (state, payload) {
+      state.userTodaysMeals = payload;
     }
   },
   actions: {
     setToplineState: ({ commit }, payload) => {
       commit('SET_TOPLINE_STATE', payload);
-    }
+    },
+    setTodaysMeals: ({ commit }, payload) => {
+      commit('SET_TODAYSMEALS_STATE', payload);
+    },
   },
   getters: {
     getUser: state => {
@@ -54,6 +61,9 @@ export default new Vuex.Store({
     },
     getToplineState: state => {
       return state.topline;
-    }
+    },
+    getTodaysMeals: state => {
+      return state.userTodaysMeals;
+    },
   }
 });

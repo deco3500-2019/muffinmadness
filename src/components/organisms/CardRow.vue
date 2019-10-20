@@ -2,10 +2,12 @@
   <div class="card-row-outer">
     <p class="subtitle1">{{ name }}</p>
     <div class="card-row"> 
+      
       <div
       v-for="(card, index) in info"
       :key="index">
-        <Card :allData="info[index]" :info="card" :index="index" :list="info" />
+        <FlatCard v-if="card === 'empty card'" />
+        <Card v-else :allData="info[index]" :info="card" :index="index" :list="info" />
       </div> 
     </div>
   </div>
@@ -13,6 +15,7 @@
 
 <script>
 import Card from "@/components/organisms/Card.vue";
+import FlatCard from "@/components/organisms/FlatCard.vue";
 
 import { eventBus } from '@/main.js';
 
@@ -26,7 +29,8 @@ import {
 
 export default {
   components: {
-    Card
+    Card,
+    FlatCard
   },
   props: {
     name: String,
@@ -69,6 +73,7 @@ export default {
     switch(this.name) {
       case "Today's meal plan":
         this.info = extractUserMealPlanRecipes(payload);
+        this.$store.dispatch('setTodaysMeals', this.info);
         break;
       case "Recommended meal plans":
         // extract reccommendedMealPlansData
@@ -111,6 +116,7 @@ export default {
   padding-left: 0.75rem;
 }
 .card-row-outer > p {
+  margin-left: 0.25rem;
   margin-bottom: 0.5rem;
 }
 .card-row {
