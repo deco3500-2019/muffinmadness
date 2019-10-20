@@ -5,10 +5,10 @@ export default [
     type: "breakfast",
     creator: "taste",
     infoSquares: {
-        time: "5",
-        cost: "2",
-        sustainability: "4",
-        health: "5"
+        time: 5,
+        cost: 2,
+        sustainability: 4,
+        health: 5
     },
     image: "https://img.taste.com.au/TiQWT1_U/w720-h480-cfill-q80/taste/2016/11/smoked-salmon-with-microwave-scrambled-eggs-47458-1.jpeg",
     videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
