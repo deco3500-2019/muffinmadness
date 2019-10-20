@@ -36,8 +36,6 @@ export default {
     let currentMealPlanRecipes = this.$store.getters.getMealPlans[0].recipes;
     let data = this.setMealPlanData(currentMealPlanRecipes);
 
-    console.log(data);
-
     let ctx = document.getElementById('myChart').getContext('2d');
     let chart = new Chart(ctx, {
       // The type of chart we want to create
@@ -76,7 +74,6 @@ export default {
         for(index in todayData[0]){
           sumHealth += todayData[0][index];
           sumSustain += todayData[1][index];
-          console.log(sumHealth);
         }
 
         data[0].push(sumHealth/todayData[0].length);
