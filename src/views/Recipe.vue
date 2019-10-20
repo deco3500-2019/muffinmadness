@@ -1,7 +1,7 @@
 <template>
   <div class="recipe">
-    <div class="nav-topbar">
-      <button class="button"><i @click="goBack" class="material-icons">arrow_back_ios</i><p class="overline">Go back</p></button>
+    <div class="nav-topbar" @click="goBack">
+      <button class="button"><i class="material-icons">arrow_back_ios</i><p class="overline">Go back</p></button>
     </div>
     
     <Card id="recipe-card" :info="recipeData" :allData="recipeData" />
@@ -45,7 +45,6 @@ export default {
   created() { 
     this.recipeData.image = '';
     this.recipeData.cardType = 'recipe';
-    console.log(this.recipeData);
     this.recipeExtendedData = this.$store.getters.getSingularRecipe(this.name);
   },
   methods: {

@@ -33,6 +33,7 @@ export default new Router({
     {
       path: "/ingredients",
       name: "ingredients",
+      props: true,
       component: () => import("./views/Ingredients.vue")
     }
   ]
