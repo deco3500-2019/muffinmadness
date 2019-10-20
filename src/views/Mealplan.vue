@@ -48,11 +48,6 @@ export default {
       show2: false
     }
   },
-  methods: {
-    goBack() {
-      this.$router.back();
-    }
-  },
   mounted() {
     let currentMealPlanRecipes = this.$store.getters.getMealPlans[0].recipes;
     let data = this.setMealPlanData(currentMealPlanRecipes);
@@ -86,6 +81,9 @@ export default {
     });
   },
   methods: {
+    goBack() {
+      this.$router.back();
+    },
     setMealPlanData(currentMealPlanRecipes){
       let data = [[],[]];
       for(let [index, day] of currentMealPlanRecipes.entries()){
