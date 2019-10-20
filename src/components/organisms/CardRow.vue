@@ -5,7 +5,7 @@
       <div
       v-for="(card, index) in info"
       :key="index">
-        <Card :info="card" />
+        <Card :allData="info[index]" :info="card" />
       </div> 
     </div>
   </div>
@@ -26,7 +26,11 @@ export default {
   components: {
     Card
   },
-  props: ['name'],
+  props: {
+    name: String,
+    influencerMealplan: Boolean,
+    id: Number
+  },
   data() {
     return {
       info: null,
@@ -43,6 +47,14 @@ export default {
     this.ingredients = this.$store.getters.getIngredients;
     this.mealPlans = this.$store.getters.getMealPlans;
     this.recipes = this.$store.getters.getRecipes;
+
+    if (this.influencerMealplan !== null) {
+      if (this.influencerMealplan === true) {
+        this.user.mealPlans[0] = this.id;
+      } else {
+        this.user.mealPlans[0] = 0;
+      }
+    }
 
     // chooses the different content of the info variable based on card type
     const payload = [

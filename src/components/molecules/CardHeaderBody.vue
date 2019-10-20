@@ -1,5 +1,5 @@
 <template>
-  <router-link v-if="!isRecipePage" tag="div" :to="{ name: 'recipe', params: { name: info.name, recipeData: recipeData } }" class="card-header-body" :class="{ 'add-padding-top': !topline}">
+  <router-link v-if="!isRecipePage" tag="div" :to="destinationData" class="card-header-body" :class="{ 'add-padding-top': !topline}">
     <div>
       <div>
         <h5 class="recipe-name">{{ info.name }}</h5>
@@ -35,17 +35,26 @@ export default {
     UserSocialStatus
   },
   props: {
+    allData: Object,
     info: Object,
     isRecipePage: Boolean,
     recipeData: Object
   },
   data() {
     return {
-      topline: null
+      topline: null,
+      destinationData: {}
     }
   },
   created() {
     this.topline = this.$store.getters.getToplineState;
+    if ( this.allData.cardType === "Today's meal plan" || this.allData.cardType === "Recommended dishes" ) { // click on recipe cards
+      this.destinationData = { name: 'recipe', params: { name: this.info.name, recipeData: this.recipeData } }
+    } else if ( this.allData.cardType === "Recommended meal plans" ) { // click on influencer meal plan card
+      this.destinationData = { name: 'influencer-mealplan', params: { id: this.allData.planId } }
+    } else { // click on influencer card
+
+    }
   }
 }
 </script>

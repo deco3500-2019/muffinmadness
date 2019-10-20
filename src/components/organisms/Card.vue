@@ -12,7 +12,7 @@
           </div>
 
         <CardHeaderTopline v-if="topline" :info="info.header.topline" />
-        <CardHeaderBody :info="info.header.body" :isRecipePage="isRecipePage" :recipeData="info" />
+        <CardHeaderBody :info="info.header.body" :isRecipePage="isRecipePage" :recipeData="info" :allData="allData" />
       </div>
     </div>
     <div class="card-footer">
@@ -33,9 +33,8 @@ export default {
     CardFooterImgRow
   },
   props: {
-    info: {
-      type: Object
-    }
+    allData: Object,
+    info: Object
   },
   data() {
     return {

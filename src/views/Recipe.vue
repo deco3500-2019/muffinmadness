@@ -4,7 +4,7 @@
       <button class="button"><i @click="goBack" class="material-icons">arrow_back_ios</i><p class="overline">Go back</p></button>
       
     </div>
-    <Card id="recipe-card" :info="recipeData"/>
+    <Card id="recipe-card" :info="recipeData" :allData="recipeData" />
     <div class="recipe-bottom">
       <div class="button-row">
         <button class="button filled-button">add to plan</button>
@@ -19,7 +19,7 @@
       <div class="steps"
       v-for="(step, j) in recipeExtendedData.steps"
       :key="j">
-        <div><span class="step-number-circle"><p>{{ j }}</p></span></div>
+        <div><span class="step-number-circle"><p>{{ j+1 }}</p></span></div>
         <div><p>{{ step }}</p></div>
       </div>
     </div>

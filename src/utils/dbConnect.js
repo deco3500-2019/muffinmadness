@@ -16,6 +16,7 @@ function extractUserMealPlanRecipes([user, influencers, ingredients, mealPlans, 
       // extracts the recipe details needed for displaying
       let extractedRecipeDetails = {
         cardType: "Today's meal plan",
+        planId: null,
         image: recipe.image,
         header: {
           topline: {
@@ -56,6 +57,7 @@ function extractMealPlanRecipes([user, influencers, ingredients, mealPlans, reci
     if (!user.mealPlans.includes(plan.id)) {
       let extractedMealPlan = {
         cardType: "Recommended meal plans",
+        planId: plan.id,
         image: null,
         header: {
           topline: {
@@ -109,6 +111,7 @@ function extractRecommendedDishes([user, influencers, ingredients, mealPlans, re
       // extracts the recipe details needed for displaying
       let extractedRecipeDetails = {
         cardType: "Recommended dishes",
+        planId: null,
         image: recipe.image,
         header: {
           topline: {
@@ -147,6 +150,7 @@ function extractInfluencers([user, influencers, ingredients, mealPlans, recipes]
   for (let influencer of influencers) {
     let extractedInfluencerDetails = {
       cardType: "Trending users to follow",
+      planId: null,
       image: influencer.image,
       header: {
         topline: {
