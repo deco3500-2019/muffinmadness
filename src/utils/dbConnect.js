@@ -240,6 +240,14 @@ function findRecipeById(allRecipes, recipeId) {
   }
 }
 
+function findIngredientByName(allIngredients, ingredientName) {
+  for (let item of allIngredients) {
+    if (item.name === ingredientName) {
+      return item;
+    }
+  }
+}
+
 function extractRecipeIds(origin, userMealplans, mealPlans, iterations = 1) {
   let mealPlanRecipesIDs = [];
   for (let mealPlan of mealPlans) {
@@ -268,5 +276,6 @@ export {
   extractInfluencers,
   extractMealPlanPageRecipes,
   findRecipe,
-  findRecipeById
+  findRecipeById,
+  findIngredientByName
 };
