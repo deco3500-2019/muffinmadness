@@ -1,5 +1,11 @@
 <template>
   <div class="mealplan">
+      <div class="nav-topbar">
+        <button class="button"><i @click="goBack" class="material-icons">arrow_back_ios</i><p class="overline">Go back</p></button>
+      </div>
+      
+    <h5 class="top-title">YOUR CURRENT MEALPLAN</h5>
+    <!-- insert graph here -->
     
     <h5 @click="show = !show">This week 
       <span class="icon-box">
@@ -41,11 +47,22 @@ export default {
       show: true,
       show2: false
     }
+  },
+  methods: {
+    goBack() {
+      this.$router.back();
+    }
   }
 }
 </script>
 
 <style scoped>
+.top-title {
+  margin-top: 0.75rem;
+  margin-left: 0;
+  display: flex;
+  justify-content: center;
+}
 .mealplan > h5 {
   margin-left: 0.75rem;
   margin-bottom: 1rem;
@@ -55,6 +72,16 @@ export default {
   margin-left: 0.75rem;
 }
 .icon-box {
+  display: flex;
+  align-items: center;
+}
+.nav-topbar {
+  display: flex;
+  align-items: center;
+}
+.nav-topbar > button {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
   display: flex;
   align-items: center;
 }
