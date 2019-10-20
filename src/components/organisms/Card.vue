@@ -16,7 +16,7 @@
       </div>
     </div>
     <div class="card-footer">
-      <CardFooterImgRow :info="info.footer" />
+      <CardFooterImgRow :info="info.footer" :allData="allData" />
     </div>
   </div>
 </template>

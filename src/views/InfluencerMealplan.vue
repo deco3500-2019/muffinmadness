@@ -1,7 +1,7 @@
 <template>
   <div class="influencer-mealplan">
-    <div class="nav-topbar">
-      <button class="button"><i @click="goBack" class="material-icons">arrow_back_ios</i><p class="overline">Go back</p></button>
+    <div class="nav-topbar" @click="goBack">
+      <button class="button"><i class="material-icons">arrow_back_ios</i><p class="overline">Go back</p></button>
     </div>
 
     <h5 class="top-title">{{ info }}</h5>
