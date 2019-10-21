@@ -11,9 +11,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/TiQWT1_U/w720-h480-cfill-q80/taste/2016/11/smoked-salmon-with-microwave-scrambled-eggs-47458-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["2", "eggs"]
     ],
@@ -34,9 +34,9 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/jfM_AXMk/w720-h480-cfill-q80/taste/2016/11/apple-and-yoghurt-flower-54725-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["2 tsp", "coconut flakes"],
       ["1", "apple"],
@@ -58,9 +58,9 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/y-DUUKT-/w720-h480-cfill-q80/taste/2016/11/poached-eggs-19390-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["4", "eggs"],
       ["pinch", "salt"],
@@ -87,9 +87,9 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/bJ2IWfBj/w720-h480-cfill-q80/taste/2016/11/boiled-eggs-with-avocado-soldiers-93742-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["4", "eggs"],
       ["8 slices", "bread"],
@@ -114,9 +114,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/kXc-WSTI/w720-h480-cfill-q80/taste/2018/02/granola-pancakes-135370-1.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["125g", "granola"],
       ["50g", "rolled oats"],
@@ -147,9 +147,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/0ZFbzO-j/w720-h480-cfill-q80/taste/2016/11/brekkie-crumble-105100-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["5", "rice cookies"],
       ["1/2 cup", "cashews"],
@@ -181,9 +181,9 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/_rbpFTzv/w720-h480-cfill-q80/taste/2016/11/brekkie-eggs-with-matts-instant-mayo-99867-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["1 tbsp", "vinegar"],
       ["5", "eggs"],
@@ -215,9 +215,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/h2eIUO_w/w720-h480-cfill-q80/taste/2019/09/raspberry-chia-overnight-oats-154161-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["1 1/2 cups", "rolled oats"],
       ["1/3 cup", "white chia seeds"],
@@ -243,9 +243,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/Uw4OlG16/w720-h480-cfill-q80/taste/2019/09/homemade-granola-154159-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["3 cups", "rolled oats"],
       ["1/2 cup", "almonds"],
@@ -278,9 +278,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/NkAIwLrr/w720-h480-cfill-q80/taste/2019/08/low-cal-cinnamon-ginger-granola-p97-152906-4.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["2 tbsp", "coconut oil"],
       ["1 1/2 tbsp", "honey"],
@@ -316,9 +316,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/8Zm_Ap60/w720-h480-cfill-q80/taste/2016/11/all-in-vegetarian-chilli-97918-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["1 cup", "pumpkin"],
       ["1", "corn"],
@@ -354,9 +354,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/FcR1ttK5/w720-h480-cfill-q80/taste/2019/09/chicken-wraps-with-herb-salad-154179-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["2", "chicken breasts"],
       ["1 tbs", "cumin"],
@@ -392,9 +392,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/aI_-VxXd/w720-h480-cfill-q80/taste/2019/08/healthier-spring-recipes-153353-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["2 sheets", "pastry"],
       ["200g", "broccoli"],
@@ -427,9 +427,9 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/Mdu9h5_2/w720-h480-cfill-q80/taste/2019/06/july-19_chicken-and-corn-sandwich-stack_taste-151028-1.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["1/2 cup", "cream cheese"],
       ["3/4 cup", "corn"],
@@ -458,9 +458,9 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/CFh3AwdS/w720-h480-cfill-q80/taste/2019/03/cheesy-bacon-and-veggie-rice-slice-148013-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["1 tbsp", "oil"],
       ["1", "onion"],
@@ -492,9 +492,9 @@ export default [
         health: 3
     },
     image: "https://img.taste.com.au/x5WCcVM6/w720-h480-cfill-q80/taste/2016/11/reuben-sandwiches-with-french-fries-88693-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["1/2", "cabbage"],
       ["60ml", "thousand island dressing"],
@@ -523,9 +523,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/EhewXu8w/w720-h480-cfill-q80/taste/2016/11/lamb-and-lemony-hummus-flatbreads-93949-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["400g", "chickpeas"],
       ["1 tbsp", "tahini"],
@@ -553,9 +553,9 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/ggnxMR70/w720-h480-cfill-q80/taste/2016/11/sriracha-pork-sliders-with-pickled-yveg-and-sweet-potato-chips-98305-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["1", "cucumber"],
       ["1", "carrots"],
@@ -581,9 +581,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/Eg5lb-n9/w720-h480-cfill-q80/taste/2016/11/barbecued-asparagus-salad-with-spinach-quinoa-goat-cheese-and-peaches-89428-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["1 1/2", "quinoa"],
       ["2", "lemon juice"],
@@ -615,9 +615,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/Eg5lb-n9/w720-h480-cfill-q80/taste/2016/11/barbecued-asparagus-salad-with-spinach-quinoa-goat-cheese-and-peaches-89428-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["1 ", "cucumber"],
       ["1/2", "onion"],
@@ -650,9 +650,9 @@ export default [
         health: 3
     },
     image: "https://img.taste.com.au/akfTFTDQ/w720-h480-cfill-q80/taste/2018/05/creamy-chicken-piccata-pasta-137359-1.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["375g", "pasta"],
       ["2 tbsp", "flour"],
@@ -684,9 +684,9 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/a1EJ56GY/w720-h480-cfill-q80/taste/2018/09/quick-salmon-pasta-with-mint-and-lemon-pesto-141160-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["1 tbsp", "parsley"],
       ["2 cloves", "garlic"],
@@ -720,9 +720,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/iQO4aOJy/w720-h480-cfill-q80/taste/2018/09/healthier-chicken-satay-stir-fry-140926-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["60ml", "milk"],
       ["2 tbsp", "peanut butter"],
@@ -756,9 +756,9 @@ export default [
         health: 4
     },
     image: "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/2/26/2/WU1307H_stuffed-peppers_s4x3.jpg.rend.hgtvcom.826.620.suffix/1463506005081.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["2 tsp", "oil"],
       ["1", "onion"],
@@ -792,9 +792,9 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/x6JzKi0x/w720-h480-cfill-q80/taste/2019/10/one-pot-mexican-chicken-and-chipotle-pasta-154292-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["2 tbsp", "oil"],
       ["1", "onion"],
@@ -824,9 +824,9 @@ export default [
         health: 3
     },
     image: "https://img.taste.com.au/L8MXvBM0/w720-h480-cfill-q80/taste/2016/11/greek-beef-burgers-104833-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["400g", "minced beef"],
       ["1", "eggs"],
@@ -855,9 +855,9 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/YAwMUOYs/w720-h480-cfill-q80/taste/2019/05/cheesy-moussaka-pasta-bake-149739-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["2 tbsp", "oil"],
       ["1", "onion"],
@@ -889,9 +889,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/eri8s6od/w720-h480-cfill-q80/taste/2019/04/healthier-chicken-breast-and-zucchini-linguine-153649-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["450g", "chicken breasts"],
       ["1 tbsp", "oil"],
@@ -920,9 +920,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/jRI6JXLl/w720-h480-cfill-q80/taste/2019/08/creamy-mexican-chicken-and-corn-salad-153777-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["1 can", "corn"],
       ["2", "chicken breasts"],
@@ -948,9 +948,9 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/eDuM-xZr/w720-h480-cfill-q80/taste/2019/09/smoked-salmon-and-avocado-salad-153572-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     ingredients: [
       ["2", "avocado"],
       ["2 tbsp", "sesame seeds"],
