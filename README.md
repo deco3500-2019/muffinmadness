@@ -1,12 +1,12 @@
 # Team Muffin Madness
 ## Link To Project Proposal
-https://github.com/deco3500-2019/muffinmadness/wiki/Proposal
-
-## Link to Final Report
-Coming later this year..
+https://github.com/deco3500-2019/muffinmadness/wiki/Proposal.
 
 ## Link to Working Prototype, Promotional Material, and Documentation  
-link to relevant links for prototype, promotional material & documentation coming later this year..
+link to prototype:
+https://muffin-madness.firebaseapp.com/
+
+promotional material & documentation coming later this year..
 
 ## Project setup
 Follow these steps to serve this project on your local computer.
