@@ -6,7 +6,6 @@
       </div>
     </div>
     <div v-if="topline">
-      <!-- make per square and data into one component vertically -->
       <div class='info-squares-group'>
         <div 
         v-for="(square, objKey) in info.infoSquares"

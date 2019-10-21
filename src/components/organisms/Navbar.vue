@@ -24,9 +24,7 @@
 }
 #nav > section > div {
   height: 50px;
-  /* The following code has been sourced from: (Thornton, S. n.d.) */
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-  /* End of sourced code */
   display: flex;
 }
 .nav-btn {

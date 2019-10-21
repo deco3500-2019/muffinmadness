@@ -1,6 +1,6 @@
 <template>
   <div class="searchbar">
-    <input type="text" name="searchbar" placeholder="Feature coming soon.." disabled>
+    <input type="text" name="searchbar" placeholder="Feature coming soon..." disabled>
     <div>
       <i class="material-icons">search</i>
     </div>

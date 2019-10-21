@@ -32,7 +32,9 @@ html, body {
   font-family: 'Roboto', sans-serif;
   color: var(--main-font-color);
 }
-/* The following code has been adapted from: (Google, n.d.c) */
+pre {
+  font-family: 'Roboto', sans-serif;
+}
 body { font-size: 1rem; font-weight: 400; letter-spacing: 0.5; }
 h1 { font-size: 6rem; font-weight: 300; letter-spacing: -1.5; }
 h2 { font-size: 3.75rem; font-weight: 300; letter-spacing: -0.5; }
@@ -46,7 +48,6 @@ h6 { font-size: 1.5rem; font-weight: 500; letter-spacing: 0.15; }
 .button { font-size: 0.875rem; font-weight: 500; letter-spacing: 1.25; text-transform: uppercase; }
 .caption { font-size: 0.75rem; font-weight: 400; letter-spacing: 0.4; }
 .overline { font-size: 0.625rem; font-weight: 400; letter-spacing: 1.5; text-transform: uppercase; }
-/* End of adapted code */
 
 #screen {
   padding-bottom: 50px;
