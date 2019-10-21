@@ -7,8 +7,8 @@ import Ingredients from "@/DB/ingredients.js";
 import MealPlans from "@/DB/mealPlans.js";
 import Recipes from "@/DB/recipes.js";
 
-import { findRecipe, findRecipeById, findIngredientByName;
-} from "@/utils/dbConnect.js";
+import { findRecipe, findRecipeById, findIngredientByName } 
+from "@/utils/dbConnect.js";
 
 Vue.use(Vuex);
 

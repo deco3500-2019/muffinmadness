@@ -4,7 +4,7 @@
       <div class="card-header-overlay" :class="{'video-overlay': isRecipePage }">
 
           <div v-if="isRecipePage" style="position: absolute; width: 411px; height: 212px; z-index: 1;">
-            <iframe id="inlineFrameExample"
+            <iframe
             width="100%"
             height="100%"
             src="https://www.youtube.com/embed/RJf6bXqpPgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
