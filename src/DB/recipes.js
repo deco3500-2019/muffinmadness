@@ -15,7 +15,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -46,7 +47,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -78,7 +80,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -115,7 +118,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -150,7 +154,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -191,7 +196,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -233,7 +239,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -275,7 +282,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -311,7 +319,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -354,7 +363,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -400,7 +410,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -446,7 +457,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -492,7 +504,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -535,7 +548,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -574,7 +588,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -616,7 +631,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -655,7 +671,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -693,7 +710,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -729,7 +747,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -771,7 +790,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -814,7 +834,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -856,7 +877,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -900,7 +922,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -944,7 +967,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -988,7 +1012,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -1028,7 +1053,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -1067,7 +1093,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -1109,7 +1136,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -1148,7 +1176,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
@@ -1184,7 +1213,8 @@ export default [
     videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
-    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
+    sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. 
+Possible reasons for impact includes but is not limited to:
  - Range fo travel
    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
  - Water and other resources
