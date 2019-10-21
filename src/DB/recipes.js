@@ -11,10 +11,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/TiQWT1_U/w720-h480-cfill-q80/taste/2016/11/smoked-salmon-with-microwave-scrambled-eggs-47458-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["2", "eggs"]
@@ -36,10 +36,10 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/jfM_AXMk/w720-h480-cfill-q80/taste/2016/11/apple-and-yoghurt-flower-54725-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["2 tsp", "coconut flakes"],
@@ -62,10 +62,10 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/y-DUUKT-/w720-h480-cfill-q80/taste/2016/11/poached-eggs-19390-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["4", "eggs"],
@@ -93,10 +93,10 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/bJ2IWfBj/w720-h480-cfill-q80/taste/2016/11/boiled-eggs-with-avocado-soldiers-93742-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["4", "eggs"],
@@ -122,10 +122,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/kXc-WSTI/w720-h480-cfill-q80/taste/2018/02/granola-pancakes-135370-1.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["125g", "granola"],
@@ -157,10 +157,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/0ZFbzO-j/w720-h480-cfill-q80/taste/2016/11/brekkie-crumble-105100-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["5", "rice cookies"],
@@ -193,10 +193,10 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/_rbpFTzv/w720-h480-cfill-q80/taste/2016/11/brekkie-eggs-with-matts-instant-mayo-99867-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["1 tbsp", "vinegar"],
@@ -229,10 +229,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/h2eIUO_w/w720-h480-cfill-q80/taste/2019/09/raspberry-chia-overnight-oats-154161-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["1 1/2 cups", "rolled oats"],
@@ -259,10 +259,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/Uw4OlG16/w720-h480-cfill-q80/taste/2019/09/homemade-granola-154159-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["3 cups", "rolled oats"],
@@ -296,10 +296,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/NkAIwLrr/w720-h480-cfill-q80/taste/2019/08/low-cal-cinnamon-ginger-granola-p97-152906-4.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["2 tbsp", "coconut oil"],
@@ -336,10 +336,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/8Zm_Ap60/w720-h480-cfill-q80/taste/2016/11/all-in-vegetarian-chilli-97918-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["1 cup", "pumpkin"],
@@ -376,10 +376,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/FcR1ttK5/w720-h480-cfill-q80/taste/2019/09/chicken-wraps-with-herb-salad-154179-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["2", "chicken breasts"],
@@ -416,10 +416,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/aI_-VxXd/w720-h480-cfill-q80/taste/2019/08/healthier-spring-recipes-153353-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["2 sheets", "pastry"],
@@ -453,10 +453,10 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/Mdu9h5_2/w720-h480-cfill-q80/taste/2019/06/july-19_chicken-and-corn-sandwich-stack_taste-151028-1.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["1/2 cup", "cream cheese"],
@@ -486,10 +486,10 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/CFh3AwdS/w720-h480-cfill-q80/taste/2019/03/cheesy-bacon-and-veggie-rice-slice-148013-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["1 tbsp", "oil"],
@@ -522,10 +522,10 @@ export default [
         health: 3
     },
     image: "https://img.taste.com.au/x5WCcVM6/w720-h480-cfill-q80/taste/2016/11/reuben-sandwiches-with-french-fries-88693-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["1/2", "cabbage"],
@@ -555,10 +555,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/EhewXu8w/w720-h480-cfill-q80/taste/2016/11/lamb-and-lemony-hummus-flatbreads-93949-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["400g", "chickpeas"],
@@ -587,10 +587,10 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/ggnxMR70/w720-h480-cfill-q80/taste/2016/11/sriracha-pork-sliders-with-pickled-yveg-and-sweet-potato-chips-98305-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["1", "cucumber"],
@@ -617,10 +617,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/Eg5lb-n9/w720-h480-cfill-q80/taste/2016/11/barbecued-asparagus-salad-with-spinach-quinoa-goat-cheese-and-peaches-89428-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["1 1/2", "quinoa"],
@@ -653,10 +653,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/Eg5lb-n9/w720-h480-cfill-q80/taste/2016/11/barbecued-asparagus-salad-with-spinach-quinoa-goat-cheese-and-peaches-89428-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["1 ", "cucumber"],
@@ -690,10 +690,10 @@ export default [
         health: 3
     },
     image: "https://img.taste.com.au/akfTFTDQ/w720-h480-cfill-q80/taste/2018/05/creamy-chicken-piccata-pasta-137359-1.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["375g", "pasta"],
@@ -726,10 +726,10 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/a1EJ56GY/w720-h480-cfill-q80/taste/2018/09/quick-salmon-pasta-with-mint-and-lemon-pesto-141160-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["1 tbsp", "parsley"],
@@ -764,10 +764,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/iQO4aOJy/w720-h480-cfill-q80/taste/2018/09/healthier-chicken-satay-stir-fry-140926-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["60ml", "milk"],
@@ -802,10 +802,10 @@ export default [
         health: 4
     },
     image: "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/2/26/2/WU1307H_stuffed-peppers_s4x3.jpg.rend.hgtvcom.826.620.suffix/1463506005081.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["2 tsp", "oil"],
@@ -840,10 +840,10 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/x6JzKi0x/w720-h480-cfill-q80/taste/2019/10/one-pot-mexican-chicken-and-chipotle-pasta-154292-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["2 tbsp", "oil"],
@@ -874,10 +874,10 @@ export default [
         health: 3
     },
     image: "https://img.taste.com.au/L8MXvBM0/w720-h480-cfill-q80/taste/2016/11/greek-beef-burgers-104833-1.jpeg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["400g", "minced beef"],
@@ -907,10 +907,10 @@ export default [
         health: 4
     },
     image: "https://img.taste.com.au/YAwMUOYs/w720-h480-cfill-q80/taste/2019/05/cheesy-moussaka-pasta-bake-149739-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["2 tbsp", "oil"],
@@ -943,10 +943,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/eri8s6od/w720-h480-cfill-q80/taste/2019/04/healthier-chicken-breast-and-zucchini-linguine-153649-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["450g", "chicken breasts"],
@@ -976,10 +976,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/jRI6JXLl/w720-h480-cfill-q80/taste/2019/08/creamy-mexican-chicken-and-corn-salad-153777-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["1 can", "corn"],
@@ -1006,10 +1006,10 @@ export default [
         health: 5
     },
     image: "https://img.taste.com.au/eDuM-xZr/w720-h480-cfill-q80/taste/2019/09/smoked-salmon-and-avocado-salad-153572-2.jpg",
-    videoInctruction: "https://www.youtube.com/watch?v=OO0nNf930nE",
-    videoHealth: "https://www.youtube.com/watch?v=Gmh_xMMJ2Pw",
+    videoInctruction: "https://www.youtube.com/embed/OO0nNf930nE",
+    videoHealth: "https://www.youtube.com/embed/Gmh_xMMJ2Pw",
     healthExplain: "Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.",
-    videoSustainability: "https://www.youtube.com/watch?v=f0ZxyoN9ax0",
+    videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: "This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to: \n  - Range fo travel \n    How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you. \n  - Water and other resources \n    How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by. \n  - Tools used \n    How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint",
     ingredients: [
       ["2", "avocado"],
