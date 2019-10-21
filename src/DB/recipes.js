@@ -16,12 +16,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["2", "eggs"]
     ],
@@ -47,12 +47,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["2 tsp", "coconut flakes"],
       ["1", "apple"],
@@ -79,12 +79,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["4", "eggs"],
       ["pinch", "salt"],
@@ -116,12 +116,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["4", "eggs"],
       ["8 slices", "bread"],
@@ -151,12 +151,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["125g", "granola"],
       ["50g", "rolled oats"],
@@ -192,12 +192,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["5", "rice cookies"],
       ["1/2 cup", "cashews"],
@@ -234,12 +234,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["1 tbsp", "vinegar"],
       ["5", "eggs"],
@@ -276,12 +276,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["1 1/2 cups", "rolled oats"],
       ["1/3 cup", "white chia seeds"],
@@ -312,12 +312,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["3 cups", "rolled oats"],
       ["1/2 cup", "almonds"],
@@ -355,12 +355,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["2 tbsp", "coconut oil"],
       ["1 1/2 tbsp", "honey"],
@@ -401,12 +401,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["1 cup", "pumpkin"],
       ["1", "corn"],
@@ -447,12 +447,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["2", "chicken breasts"],
       ["1 tbs", "cumin"],
@@ -493,12 +493,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["2 sheets", "pastry"],
       ["200g", "broccoli"],
@@ -536,12 +536,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["1/2 cup", "cream cheese"],
       ["3/4 cup", "corn"],
@@ -575,12 +575,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["1 tbsp", "oil"],
       ["1", "onion"],
@@ -617,12 +617,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["1/2", "cabbage"],
       ["60ml", "thousand island dressing"],
@@ -656,12 +656,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["400g", "chickpeas"],
       ["1 tbsp", "tahini"],
@@ -694,12 +694,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["1", "cucumber"],
       ["1", "carrots"],
@@ -730,12 +730,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["1 1/2", "quinoa"],
       ["2", "lemon juice"],
@@ -772,12 +772,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["1 ", "cucumber"],
       ["1/2", "onion"],
@@ -815,12 +815,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["375g", "pasta"],
       ["2 tbsp", "flour"],
@@ -857,12 +857,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["1 tbsp", "parsley"],
       ["2 cloves", "garlic"],
@@ -901,12 +901,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["60ml", "milk"],
       ["2 tbsp", "peanut butter"],
@@ -945,12 +945,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["2 tsp", "oil"],
       ["1", "onion"],
@@ -989,12 +989,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["2 tbsp", "oil"],
       ["1", "onion"],
@@ -1029,12 +1029,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["400g", "minced beef"],
       ["1", "eggs"],
@@ -1068,12 +1068,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["2 tbsp", "oil"],
       ["1", "onion"],
@@ -1110,12 +1110,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["450g", "chicken breasts"],
       ["1 tbsp", "oil"],
@@ -1149,12 +1149,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["1 can", "corn"],
       ["2", "chicken breasts"],
@@ -1185,12 +1185,12 @@ export default [
     healthExplain: `Due to the ingredients in this meal it has certain benefits to your health. These ingredients have a combination of nutritional values that may have a benefit effect on your body. To have a healthy diet you have to have a particular amount of these substances of which this recipe provides you with X amount. These are some of the reasons that this recipe has received it's health rating and now you know what these ingredients in this combination means for you and your health.`,
     videoSustainability: "https://www.youtube.com/embed/f0ZxyoN9ax0",
     sustainabilityExplain: `This recipe has a range of ingredient, each ingredient has it's own place in the flavour profile of this meal and a reason to be there, however, what does it mean for the environment? Each ingredient has a different impact on the environment and the reason they affect the environment differs as well. Possible reasons for impact includes but is not limited to:
-      - Range fo travel
-        How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
-      - Water and other resources
-        How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
-      - Tools used
-        How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
+ - Range fo travel
+   How far an ingredient travels has a big impact on the environment, the further it travels the more fossile fuels are burned to get it to your kitchen, to be more sustainable see what resources are avaialable near you.
+ - Water and other resources
+   How much water something needs to grow or live also has a big impact on sustainability. If something requires a lot of water before it's able to produce food it is considered to be bad for the environment, we see this clearly when we look at all the shortages on water around the world and if the megatrends around the globe continue we will have serious water issues close by.
+ - Tools used
+   How ingredients are cultivated, just like water has a great impact as well. If the plant or animal needs certain types of tools the encironmental impact can increase substantionally. In addition, if a farmer uses feed that travels from the other side of the globe it obviously has an impact on the environment, this means that simply buying locally may not be enough, you can do some research online or use stores that only use sustainable sources to ensure that you limit your carbon footprint`,
     ingredients: [
       ["2", "avocado"],
       ["2 tbsp", "sesame seeds"],
