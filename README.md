@@ -8,7 +8,7 @@ From the beginning of this project, our team set out to explore how technology c
 This repository consists of the source code for the high-fidelity prototype showcased at the trade show towards the end of the semester and a wikipedia where all documentation can be read.
 
 ### Links to High-fidelity Prototype & Tradeshow Material
-#### Link to Working Prototype
+#### Link to Working Prototype (best viewed on mobile device or through Developer Tools in Chrome)
 https://muffin-madness.firebaseapp.com/
 
 #### Link to Source Code
