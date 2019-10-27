@@ -1,17 +1,45 @@
 # Team Muffin Madness
-## Link To Project Proposal
-https://github.com/deco3500-2019/muffinmadness/wiki/Proposal.
 
-## Link to Working Prototype, Promotional Material, and Documentation  
-link to prototype:
+This github project has been produced as a response to assessment item four in the course DECO7350 Social Mobile Computing at the University of Queensland.
+
+From the beginning of this project, our team set out to explore how technology could be used to help people in terms of food planning to achieve a healthier and more sustainable diet without the increased mental effort of doing so. Through our research we found a lack of food literacy and assumptions where it was believed that healthy and sustainable food would be costly and likely to not taste as great. From this, our design team devised what we believe to be a suitable solution by working through an iterative design and prototyping process to understand and produce a product based on users' needs.
+
+## Project Overview & Struture
+This repository consists of the source code for the high-fidelity prototype showcased at the trade show towards the end of the semester and a wikipedia where all documentation can be read.
+
+### Links to High-fidelity Prototype & Tradeshow Material
+#### Link to Working Prototype
 https://muffin-madness.firebaseapp.com/
 
-promotional material & documentation coming later this year..
+#### Link to Source Code
+https://github.com/deco3500-2019/muffinmadness
+
+#### Link to Promotional Material  
+https://github.com/deco3500-2019/muffinmadness/tree/master/Promotion%20Material
+
+### Links to Wikipedia Documentation
+#### Link To Project Proposal
+https://github.com/deco3500-2019/muffinmadness/wiki/Proposal
+
+#### Link to Documentation Summary
+https://github.com/deco3500-2019/muffinmadness/wiki/Documentation
+
+#### Link to Low- and High-fidelity Prototype Details
+https://github.com/deco3500-2019/muffinmadness/wiki/Prototype
+
+#### Link to Stand-ups
+https://github.com/deco3500-2019/muffinmadness/wiki/Standups
+
+#### Link to User Research
+https://github.com/deco3500-2019/muffinmadness/wiki/User-Research
 
 ## Project setup
-Follow these steps to serve this project on your local computer.
+If you wish to see a live version of the high-fidelity prototype follow this url:
+https://muffin-madness.firebaseapp.com/
 
-*Required:* Node.js installed on your device
+To serve the project on your local computer follow these steps:
+
+*Required:* 1. Node.js installed on your device, 2. a code editor or IDE.
 
 This application is a high-fidelity prototype made with a mobile first approach. The current format of the application have only been designed for phone sized deviced, spesifically the Google Pixel 2 XL device. The following steps will detail how you can host the application on your local computer and view it in your browser and on your phone.
 
@@ -38,3 +66,6 @@ ctrl + shift + i
 ctrl + shift + m
 ```
 8. Continue to select Pixel 2 XL from the dropdown menu which normally is set to responsive. This can be found on the far left on the device toolbar that comes up after you finished step 6.
+
+# Thank You!
+We in team Muffin Madness would like to thank you for your time looking at our project. It is a rare thing to get people's attention in a world of constant distractions and we appreciate that you are spending your valuable time having a look at our project.
