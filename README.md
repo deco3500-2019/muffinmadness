@@ -18,11 +18,20 @@ https://github.com/deco3500-2019/muffinmadness
 https://github.com/deco3500-2019/muffinmadness/tree/master/Promotion%20Material
 
 ### Links to Wikipedia Documentation
+#### Home 
+https://github.com/deco3500-2019/muffinmadness/wiki
+
 #### Link To Project Proposal
 https://github.com/deco3500-2019/muffinmadness/wiki/Proposal
 
 #### Link to Documentation Summary
 https://github.com/deco3500-2019/muffinmadness/wiki/Documentation
+
+#### Relevant Theory
+https://github.com/deco3500-2019/muffinmadness/wiki/Relevant-Theory
+
+#### Design Process 
+https://github.com/deco3500-2019/muffinmadness/wiki/Design-Process
 
 #### Link to Low- and High-fidelity Prototype Details
 https://github.com/deco3500-2019/muffinmadness/wiki/Prototype
@@ -32,6 +41,9 @@ https://github.com/deco3500-2019/muffinmadness/wiki/Standups
 
 #### Link to User Research
 https://github.com/deco3500-2019/muffinmadness/wiki/User-Research
+
+#### References
+https://github.com/deco3500-2019/muffinmadness/wiki/References
 
 ## Project setup
 If you wish to see a live version of the high-fidelity prototype follow this url:
